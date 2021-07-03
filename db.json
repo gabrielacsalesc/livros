@@ -1,0 +1,30 @@
+{
+    "livros": [
+        {
+            "_id": 1,
+            "titulo": "Aventuras de Ema Maia",
+            "descricao": "Maravilhosa, diva suprema.",
+            "capa": "URL",
+            "autora":"Gabriela Coutinho",
+            "siteCompra": "url"
+            
+        },
+        {
+            "_id": 2,
+            "titulo": "Aventuras de Jaque",
+            "descricao": "Maravilhosa, diva suprema..vivvvaaaaaaaa.",
+            "capa": "URL",
+            "autora":"Gabriela Coutinho",
+            "siteCompra": "url"
+            
+        },
+        {
+            "_id": 3,
+            "titulo": "Aventuras de Gabi",
+            "descricao": "Maravilhosa, massaaaaaaaaaaaaaaaaaaa.",
+            "capa": "URL",
+            "autora":"Gabriela Coutinho",
+            "siteCompra": "url"
+        }
+    ]
+}
