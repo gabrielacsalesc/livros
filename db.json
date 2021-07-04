@@ -1,30 +1,82 @@
 {
     "livros": [
-        {
+         {
             "_id": 1,
-            "titulo": "Aventuras de Ema Maia",
-            "descricao": "Maravilhosa, diva suprema.",
-            "capa": "URL",
-            "autora":"Gabriela Coutinho",
-            "siteCompra": "url"
+            "titulo": "Lundu",
+            "descricao": "O livro não é dividido em capítulos. A poesia de Tatiana Nascimento traz diversidade temática, riqueza semântica, construções e neologismos que conferem identidade a seus poemas. Dinâmico e inovador, o conjunto de poesias é uma compilação de versos escritos entre 2009 e 2015 e, assim, carrega imensa diversidade.Esteticamente o livro combina seus conteúdos da seguinte maneira: os versos são chamados a uma luta ancestral que perdura na superfície do povo negro, e os poemas clamam por atitudes.",
+            "capa": "https://www.geledes.org.br/wp-content/uploads/2018/08/lundu.jpeg",
+            "autora":"Tatiana Nascimento",
+            "siteCompra": "https://docs.google.com/spreadsheets/d/1ufvy_3DgIs4XuIdGI4yL0FTud59rGOHo/edit#gid=495375947"
             
         },
         {
             "_id": 2,
-            "titulo": "Aventuras de Jaque",
-            "descricao": "Maravilhosa, diva suprema..vivvvaaaaaaaa.",
-            "capa": "URL",
-            "autora":"Gabriela Coutinho",
-            "siteCompra": "url"
+            "titulo": "A Cor Púrpura",
+            "descricao": "O livro faz uma crítica à relação entre homens e mulheres, ao poder dado ao homem em uma sociedade que ainda hoje luta por igualdade entre gêneros, etnias e classes sociais. Um livro que retrata um pedaço do mundo no início do século XX, mas que nos mostra a atualidade de determinadas questões.",
+            "capa": "https://images-na.ssl-images-amazon.com/images/I/91onEfVyuDL.jpg",
+            "autora":"Alice Walker",
+            "siteCompra": "https://www.amazon.com.br/cor-p%C3%BArpura-Alice-Walker/dp/8503010313/ref=sr_1_1?dchild=1&keywords=a+cor+purpura&qid=1625357903&sr=8-1"
             
         },
         {
             "_id": 3,
-            "titulo": "Aventuras de Gabi",
-            "descricao": "Maravilhosa, massaaaaaaaaaaaaaaaaaaa.",
-            "capa": "URL",
-            "autora":"Gabriela Coutinho",
-            "siteCompra": "url"
+            "titulo": "Sapa Profana",
+            "descricao": "Uma indicação para quem ama poesias. Nesse livro com suas poesias, Raíssa Éris Grimm nos leva a explorar  seu mundo interior e suas experiências sendo quem é.",
+            "capa": "https://lh6.googleusercontent.com/wIm_Q8mzoZ8t-uI5bXx1GOSTnO8hiJRdQDbBgrCW9QigDdrAXPzkv8UYHGxILH-10PvQ3OpF0nDgJa2Wr44a5HaYhT9Q82zj99vqXOfZmtCx9T3fMltBRldJhn_KlO_-9EAniMCf",
+            "autora":"Raíssa Éris Grimm",
+            "siteCompra": "https://docs.google.com/spreadsheets/d/1ufvy_3DgIs4XuIdGI4yL0FTud59rGOHo/edit#gid=495375947"
+        }
+        {
+            "_id": 4,
+            "titulo": "Amora",
+            "descricao": "Amora é um livro de contos lançado em 2016, de autoria da escritora gaúcha Natalia Borges Polesso, que reúne histórias que giram em torno de relacionamentos lésbicos. Em 2016, o livro venceu o Prêmio Jabuti na categoria Contos, e o Prêmio Açorianos, na mesma categoria.",
+            "capa": "https://cdn.shopify.com/s/files/1/0102/4406/3294/products/4_Amora-404996.png?v=1606312007",
+            "autora":"Natalia Borges Polesso",
+            "siteCompra": "https://www.amazon.com.br/Amora-Nat%C3%A1lia-Borges-Polesso/dp/8561249560/ref=asc_df_8561249560/?tag=googleshopp00-20&linkCode=df0&hvadid=379739056264&hvpos=&hvnetw=g&hvrand=925766266526759089&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1001541&hvtargid=pla-423142413321&psc=1"
+            
+        },
+        {
+            "_id": 5,
+            "titulo": "Flores raras e banalíssimas: A história de Lota de Macedo Soares e Elizabeth Bishop",
+            "descricao": "Flores raras e banalíssimas conta a história de amor de duas mulheres notáveis, tendo como pano de fundo o Brasil dos nos 50 e 60: Elizabeth Bishop, laureada poeta americana, e Lota de Macedo Soares, que legou ao Rio de Janeiro um inusitado parque, verdadeiro poema urbano, o Aterro do Flamengo. A brilhante e detalhada pesquisa de Carmen L. Oliveira revelou uma mulher de vanguarda, Dona Lota, que desafiou as mesquinharias políticas e perseguiu um sonho estético, enfrentando as fortes personalidades de Carlos Lacerda e Burle Marx. Este livro, cuja primeira edição empolgou a crítica e o público, revelou Elizabeth Bishop para além de sua poesia, como mulher e arguta comentarista do Brasil. Em estilo irônico, mas permeado pela ternura, Carmen L. Oliveira criou uma obra, a um tempo documental e ficcional, onde convivem felicidade e tragédia, êxito público e desastres íntimos.",
+            "capa": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1387150067l/19488599.jpg",
+            "autora":"Carmen L. Oliveira",
+            "siteCompra": "https://www.amazon.com.br/Flores-Raras-Banal%C3%ADssimas-Carmen-Oliveira/dp/8532505945/ref=sr_1_1?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=flores+raras&qid=1625345555&s=books&sr=1-1"
+            
+        },
+        {
+            "_id": 6,
+            "titulo": "Terra Molhada",
+            "descricao": "Esse livro foi sonhado de dentro do armário, mas suas páginas não têm cheiro de mofo ou de naftalina. Quatro anos antes a madeira antiga, que não guardava roupas e sim uma moça, foi queimada em praça pública num ritual de libertação quase pagão. Portanto, essas palavras têm cheiro de cinza, fogo e da terra molhada que veio acalmar o incêndio.",
+            "capa": "https://images-na.ssl-images-amazon.com/images/I/812wOM0exUL.jpg",
+            "autora":"Thalita Coelho",
+            "siteCompra": "https://www.amazon.com.br/Terra-molhada-Thalita-Coelho/dp/8582975120/ref=sr_1_1?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=PS3O9SJ261LH&dchild=1&keywords=terra+molhada&qid=1625345756&sprefix=terra+molhada%2Caps%2C304&sr=8-1"
+        }
+         {
+            "_id": 7,
+            "titulo": "Na Ponta dos Dedos",
+            "descricao": "Criada em uma casa habitada por pequenos ladrões num beco escuro da Londres vitoriana, a órfã Sue Trinder é criada pela Sra. Sucksby com uma ternura incomum ao ambiente em que vive. Perto de completar dezoito anos, Sue é cooptada por um vigarista de infame alcunha, Sir Gentleman, a participar de um esquema ardiloso quando vai trabalhar como criada na bucólica mansão do velho Christopher Lilly, um excêntrico que vive recluso, cercado de livros, ao lado da sobrinha, a também órfã Maud.Na ponta dos dedos foi adaptado para a TV em 2005, em uma minissérie da BBC, e também para o cinema, pelo diretor coreano Park Chan-wook como A criada, filme vencedor do prêmio BAFTA de melhor filme estrangeiro, em 2018.",
+            "capa": "https://images-na.ssl-images-amazon.com/images/I/71JlLIlxJ+L.jpg",
+            "autora":"Sarah Waters",
+            "siteCompra": "https://www.amazon.com.br/ponta-dos-dedos-Sarah-Waters/dp/8532531466/ref=sr_1_1?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=na+ponta+dos+dedos&qid=1625354213&s=books&sr=1-1"
+            
+        },
+        {
+            "_id": 8,
+            "titulo": "Fun Home",
+            "descricao": "O livro narra a infância e juventude da autora na zona rural da Pensilvânia, focando-se em sua relação complexa com seu pai.",
+            "capa": "https://images-na.ssl-images-amazon.com/images/I/51XHnDZK7dL._SX333_BO1,204,203,200_.jpg",
+            "autora":"Alisson Bechdel",
+            "siteCompra": "https://www.amazon.com.br/Fun-home-Uma-tragicom%C3%A9dia-fam%C3%ADlia/dp/8593828981/ref=sr_1_1?dchild=1&keywords=fun+home&qid=1625353985&sr=8-1"
+            
+        },
+        {
+            "_id": 9,
+            "titulo": "Eu Sou uma Lésbica",
+            "descricao": "Em Eu sou uma lésbica, Cassandra Rios narra as aventuras amorosas de uma lésbica dos anos 1960 e 1970, quando as mulheres aproveitavam o Carnaval para usar calças compridas, camisas e gravatas, caracterizando-se de homem para melhor serem identificadas pelas outras mulheres. O conto foi publicado pela primeira vez em 1980, sob o formato de folhetim, na revista Status.",
+            "capa": "https://images-na.ssl-images-amazon.com/images/I/716N3HzN6kL.jpg",
+            "autora":"Cassandra Rios",
+            "siteCompra": "https://www.estantevirtual.com.br/livros/cassandra-rios/eu-sou-uma-lesbica/3282936649"
         }
     ]
 }
