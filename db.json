@@ -77,6 +77,14 @@
             "capa": "https://images-na.ssl-images-amazon.com/images/I/716N3HzN6kL.jpg",
             "autora":"Cassandra Rios",
             "siteCompra": "https://www.estantevirtual.com.br/livros/cassandra-rios/eu-sou-uma-lesbica/3282936649"
-        }
+        },
+          {
+            "_id": 10,
+            "titulo": "Minhas duas avós",
+            "descricao": "A partir da observação dos próprios netos sobre Ana e Paula, as duas avós da história e da vida real, a autora Ana Teixeira conta a história de duas mulheres muito diferentes, que vivem juntas na Casa das Formigas – um universo lúdico de imagens de duas avós que todos nós gostaríamos de ter. Os desenhos dos meninos interagem com fotos da autora dos ambientes em que a história se desenrola. E reforçam as diferenças entre as duas personagens justamente para mostrar que todos nós somos iguais em nossas peculiaridades.",
+            "capa": "https://images-na.ssl-images-amazon.com/images/I/51KU-ZY88vL._SY496_BO1,204,203,200_.jpg",
+            "autora":"Ana Teixeira",
+            "siteCompra": "https://www.amazon.com.br/Minhas-duas-av%C3%B3s-Ana-Texeira/dp/8598349461/ref=asc_df_8598349461/?tag=googleshopp00-20&linkCode=df0&hvadid=379733433100&hvpos=&hvnetw=g&hvrand=14651304923706390&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1001541&hvtargid=pla-896959892103&psc=1"
+         }
     ]
 }
